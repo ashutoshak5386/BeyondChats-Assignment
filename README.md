@@ -32,7 +32,7 @@ BeyondChats is a chatbot company that provides an easy step-by-step process for 
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/beyondchats.git
+   git clone https://github.com/ashutoshak5386/BeyondChats-Assignment.git
    cd beyondchats
    ```
 2. Install dependencies:
@@ -58,5 +58,5 @@ Feel free to submit issues and pull requests to enhance the project.
 This project is licensed under the MIT License.
 
 ## Author
-This assessment was created by [Your Name].
+This assessment was created by Ashutosh Kumar.
 
